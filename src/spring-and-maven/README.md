@@ -1,0 +1,2 @@
+This example application shows how you can use GemBox.Spreadsheet for Java to create a web application with Spring and Maven. 
+You can run this application by running `mvn install tomcat7:run` from the command line. After that the application will be available on `http://localhost:8080/spring/workbook/create`.
