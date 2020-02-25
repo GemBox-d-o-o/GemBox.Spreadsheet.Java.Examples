@@ -10,51 +10,51 @@
 	<version>1.0</version>
 	<modules>
 		<module>spring-and-maven</module>
-		<module>cell-referencing</module>
-		<module>chart-components</module>
-		<module>chart-sheet</module>
-		<module>chart</module>
-		<module>comments</module>
-		<module>conditional-formatting</module>
-		<module>convert</module>
-		<module>data-types</module>
-		<module>data-validation</module>
-		<module>document-properties</module>
-		<module>excel-2010-2013-features</module>
-		<module>filtering</module>
-		<module>fixed-columns-width-text</module>
-		<module>forms-and-macros</module>
-		<module>formula-calculation</module>
-		<module>formula-utility-methods</module>
-		<module>formula</module>
-		<module>freeze-or-split-panes</module>
-		<module>grouping</module>
-		<module>header-and-footer</module>
+		<module>Basic Features/cell-referencing</module>
+		<module>Charts/chart-components</module>
+		<module>Charts/chart-sheet</module>
+		<module>Charts/chart</module>
+		<module>Basic Features/comments</module>
+		<module>Advanced Features/conditional-formatting</module>
+		<module>Common Uses/convert</module>
+		<module>Basic Features/data-types</module>
+		<module>Advanced Features/data-validation</module>
+		<module>Advanced Features/document-properties</module>
+		<module>Preservation/excel-2010-2013-features</module>
+		<module>Advanced Features/filtering</module>
+		<module>Advanced Features/fixed-columns-width-text</module>
+		<module>Preservation/forms-and-macros</module>
+		<module>Calculation Engine/formula-calculation</module>
+		<module>Advanced Features/formula-utility-methods</module>
+		<module>Basic Features/formula</module>
+		<module>Advanced Features/freeze-or-split-panes</module>
+		<module>Advanced Features/grouping</module>
+		<module>Basic Features/header-and-footer</module>
 		<module>hello-world</module>
-		<module>html-export</module>
-		<module>hyperlinks</module>
-		<module>illustrations-and-shapes</module>
-		<module>images</module>
-		<module>inline-text-formatting</module>
-		<module>iterative-calculation</module>
-		<module>number-format</module>
+		<module>Advanced Features/html-export</module>
+		<module>Basic Features/hyperlinks</module>
+		<module>Preservation/illustrations-and-shapes</module>
+		<module>Basic Features/images</module>
+		<module>Basic Features/inline-text-formatting</module>
+		<module>Calculation Engine/iterative-calculation</module>
+		<module>Basic Features/number-format</module>
 		<module>performance</module>
-		<module>pivot-tables</module>
-		<module>preservation</module>
-		<module>print-titles-and-area</module>
-		<module>print-and-view-options</module>
-		<module>reading</module>
-		<module>searching</module>
-		<module>sheet-copying-deleting</module>
-		<module>sheet-protection</module>
-		<module>sorting</module>
-		<module>styles-and-formatting</module>
-		<module>template-use</module>
-		<module>unit-conversion</module>
-		<module>writing</module>
-		<module>xlsx-encryption</module>
-		<module>xls-encryption</module>
+		<module>Advanced Features/pivot-tables</module>
+		<module>Charts/preservation</module>
+		<module>Advanced Features/print-titles-and-area</module>
+		<module>Advanced Features/print-and-view-options</module>
+		<module>Common Uses/reading</module>
+		<module>Advanced Features/searching</module>
+		<module>Advanced Features/sheet-copying-deleting</module>
+		<module>Protection/sheet-protection</module>
+		<module>Advanced Features/sorting</module>
+		<module>Basic Features/styles-and-formatting</module>
+		<module>Advanced Features/tables</module>
+		<module>Common Uses/template-use</module>
+		<module>Advanced Features/unit-conversion</module>
+		<module>Common Uses/writing</module>
+		<module>Protection/xlsx-encryption</module>
+		<module>Protection/xls-encryption</module>
 		<module>javafx</module>
-		<module>tables</module>
 	</modules>
 </project>
