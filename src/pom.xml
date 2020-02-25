@@ -56,5 +56,6 @@
 		<module>Protection/xlsx-encryption</module>
 		<module>Protection/xls-encryption</module>
 		<module>javafx</module>
+		<module>example-helpers</module>
 	</modules>
 </project>

@@ -3,12 +3,13 @@ import com.gembox.spreadsheet.*;
 
 class Program {
 
+    private static final String resourcesFolder = Util.resourcesFolder();
+
     public static void main(String[] args) throws java.io.IOException {
         // If using Professional version, put your serial key below.
         SpreadsheetInfo.setLicense("FREE-LIMITED-KEY");
-        Util.resourceFolder();
 
-        ExcelFile ef = ExcelFile.load("SimpleTemplate.xlsx");
+        ExcelFile ef = ExcelFile.load(resourcesFolder + "SimpleTemplate.xlsx");
 
         StringBuilder sb = new StringBuilder();
 
