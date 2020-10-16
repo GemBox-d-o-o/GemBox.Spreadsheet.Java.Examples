@@ -39,12 +39,18 @@ This repository contains the source code of GemBox.Spreadsheet for Java example 
 
 GemBox.Spreadsheet for Java works on systems with Java 8 or higher.
 
+## Installation
+
+You can download GemBox.Spreadsheet for Java from [BugFixes](https://www.gemboxsoftware.com/spreadsheet-java/downloads/bugfixes.html) 🛠️
+
+Or from Maven by updating *gembox-spreadsheet* dependency in your pom.xml 📦
+
 ## Resources
 * [Overview](https://www.gemboxsoftware.com/spreadsheet-java)
-* [Documentation](https://www.gemboxsoftware.com/spreadsheet-java/help/html/Introduction.htm)
+* [Documentation](https://www.gemboxsoftware.com/spreadsheet-java/docs/introduction.html)
 * [Support](https://www.gemboxsoftware.com/spreadsheet-java/support)
 * [Blog](https://www.gemboxsoftware.com/gembox-spreadsheet-for-java)
 
 ## License
 
-You can download GemBox.Spreadsheet for Java license agreement from [EULA.rtf](https://www.gemboxsoftware.com/spreadsheet-java/EULA.rtf) 📝
+You can download GemBox.Spreadsheet for Java license agreement from [EULA.rtf](https://www.gemboxsoftware.com/EULA.rtf) 📝
