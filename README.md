@@ -23,17 +23,17 @@ This repository contains the source code of GemBox.Spreadsheet for Java example 
 
 ## Examples
 
-* [Hello World](https://github.com/GemBox-d-o-o/GemBox.Spreadsheet.Java.Examples/tree/master/src/hello-world)
-* [Common Uses](https://github.com/GemBox-d-o-o/GemBox.Spreadsheet.Java.Examples/tree/master/src/common-uses)
-* [Basic Features](https://github.com/GemBox-d-o-o/GemBox.Spreadsheet.Java.Examples/tree/master/src/basic-features)
-* [Advanced Features](https://github.com/GemBox-d-o-o/GemBox.Spreadsheet.Java.Examples/tree/master/src/advanced-features)
-* [Charts](https://github.com/GemBox-d-o-o/GemBox.Spreadsheet.Java.Examples/tree/master/src/charts)
-* [Calculation Engine](https://github.com/GemBox-d-o-o/GemBox.Spreadsheet.Java.Examples/tree/master/src/calculation-engine)
-* [Protection](https://github.com/GemBox-d-o-o/GemBox.Spreadsheet.Java.Examples/tree/master/src/protection)
-* [Preservation](https://github.com/GemBox-d-o-o/GemBox.Spreadsheet.Java.Examples/tree/master/src/preservation)
-* [Spring and Maven](https://github.com/GemBox-d-o-o/GemBox.Spreadsheet.Java.Examples/tree/master/src/spring-and-maven)
-* [JavaFX](https://github.com/GemBox-d-o-o/GemBox.Spreadsheet.Java.Examples/tree/master/src/javafx)
-* [Performance](https://github.com/GemBox-d-o-o/GemBox.Spreadsheet.Java.Examples/tree/master/src/performance)
+* [Hello World](https://github.com/GemBoxLtd/GemBox.Spreadsheet.Java.Examples/tree/master/src/hello-world)
+* [Common Uses](https://github.com/GemBoxLtd/GemBox.Spreadsheet.Java.Examples/tree/master/src/common-uses)
+* [Basic Features](https://github.com/GemBoxLtd/GemBox.Spreadsheet.Java.Examples/tree/master/src/basic-features)
+* [Advanced Features](https://github.com/GemBoxLtd/GemBox.Spreadsheet.Java.Examples/tree/master/src/advanced-features)
+* [Charts](https://github.com/GemBoxLtd/GemBox.Spreadsheet.Java.Examples/tree/master/src/charts)
+* [Calculation Engine](https://github.com/GemBoxLtd/GemBox.Spreadsheet.Java.Examples/tree/master/src/calculation-engine)
+* [Protection](https://github.com/GemBoxLtd/GemBox.Spreadsheet.Java.Examples/tree/master/src/protection)
+* [Preservation](https://github.com/GemBoxLtd/GemBox.Spreadsheet.Java.Examples/tree/master/src/preservation)
+* [Spring and Maven](https://github.com/GemBoxLtd/GemBox.Spreadsheet.Java.Examples/tree/master/src/spring-and-maven)
+* [JavaFX](https://github.com/GemBoxLtd/GemBox.Spreadsheet.Java.Examples/tree/master/src/javafx)
+* [Performance](https://github.com/GemBoxLtd/GemBox.Spreadsheet.Java.Examples/tree/master/src/performance)
 
 ## System Requirement
 
