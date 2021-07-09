@@ -41,16 +41,15 @@ GemBox.Spreadsheet for Java works on systems with Java 8 or higher.
 
 ## Installation
 
-You can download GemBox.Spreadsheet for Java from [BugFixes](https://www.gemboxsoftware.com/spreadsheet-java/downloads/bugfixes.html) 🛠️
+You can download GemBox.Spreadsheet for Java from [BugFixes 🛠️](https://www.gemboxsoftware.com/spreadsheet-java/downloads/bugfixes.html) or from **Maven 📦** by updating *gembox-spreadsheet* dependency in your pom.xml.
 
-Or from Maven by updating *gembox-spreadsheet* dependency in your pom.xml 📦
+## Support
 
-## Resources
-* [Overview](https://www.gemboxsoftware.com/spreadsheet-java)
-* [Documentation](https://www.gemboxsoftware.com/spreadsheet-java/docs/introduction.html)
-* [Support](https://www.gemboxsoftware.com/spreadsheet-java/support)
+* [Contact Us](https://support.gemboxsoftware.com/new-ticket?ticket%5Bdepartment%5D=1&ticket%5Bproduct%5D=7)
+* [Forum](https://forum.gemboxsoftware.com/c/gembox-spreadsheet-java/10)
 * [Blog](https://www.gemboxsoftware.com/gembox-spreadsheet-for-java)
+* [API Reference](https://www.gemboxsoftware.com/spreadsheet-java/docs/introduction.html)
 
 ## License
 
-You can download GemBox.Spreadsheet for Java license agreement from [EULA.rtf](https://www.gemboxsoftware.com/EULA.rtf) 📝
+You can download GemBox.Spreadsheet for Java license agreement from [EULA.rtf 📝](https://www.gemboxsoftware.com/EULA.rtf).
